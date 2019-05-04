@@ -1,5 +1,4 @@
-# anno1800-calc
-ANNO 1800 Production and Population Calculator
+# ANNO 1800 Production and Population Calculator
 
 Tool to calculate production and population required to satisfy inhabitants.
 Per default, only essential goods will be provided.
