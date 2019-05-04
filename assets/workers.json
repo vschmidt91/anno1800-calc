@@ -1,0 +1,794 @@
+{
+    "Wood": {
+      "Farmers": 5,
+      "Workers": 0,
+      "Artisans": 0,
+      "Engineers": 0,
+      "Investors": 0,
+      "Jornaleros": 0,
+      "Obreros": 0
+    },
+    "Church": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Cigars": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 175
+    },
+    "Ponchos": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 30,
+        "Obreros": 0
+    },
+    "Sugar": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 50
+    },
+    "Tortillas": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 100
+    },
+    "Fried Plantains": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 25,
+        "Obreros": 0
+    },
+    "Coffee": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 150
+    },
+    "Chocolate": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 100
+    },
+    "Rum": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 30,
+        "Obreros": 0
+    },
+    "Bombins": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 20
+    },
+    "Felt": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 10,
+        "Obreros": 0
+    },
+    "Cotton Fabric": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 10,
+        "Obreros": 0
+    },
+    "Fish Oil": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 15,
+        "Obreros": 0
+    },
+    "Pearls": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 50,
+        "Obreros": 0
+    },
+    "Alpaca Wool": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 10,
+        "Obreros": 0
+    },
+    "Corn": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 10,
+        "Obreros": 0
+    },
+    "Plantains": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 10,
+        "Obreros": 0
+    },
+    "Coffee Beans": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 10,
+        "Obreros": 0
+    },
+    "Caoutchouc": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 10,
+        "Obreros": 0
+    },
+    "Cocoa": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 10,
+        "Obreros": 0
+    },
+    "Cotton": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 10,
+        "Obreros": 0
+    },
+    "Tobacco": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 10,
+        "Obreros": 0
+    },
+    "Sugar Cane": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 10,
+        "Obreros": 0
+    },
+    "Members Club": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "University": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Variety Theatre": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Bank": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "School": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Pub": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Glasses": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 100,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Jewelry": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 150,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Gold": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 125,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Gramophones": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 150,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Sewing Machines": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 150,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Pocket Watches": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 150,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Penny Farthings": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 150,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Filaments": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 125,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Wood Veneers": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 100
+    },
+    "Glass": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 100,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Dynamite": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Work Clothes": {
+        "Farmers": 50,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Malt": {
+        "Farmers": 0,
+        "Workers": 25,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Flour": {
+        "Farmers": 10,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Tallow": {
+        "Farmers": 0,
+        "Workers": 40,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Gold Ore": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 100
+    },
+    "Cement": {
+        "Farmers": 0,
+        "Workers": 25,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Copper": {
+        "Farmers": 0,
+        "Workers": 25,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Zinc": {
+        "Farmers": 0,
+        "Workers": 25,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Iron": {
+        "Farmers": 0,
+        "Workers": 50,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Coal": {
+        "Farmers": 0,
+        "Workers": 50,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Oil": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 15,
+        "Obreros": 0
+    },
+    "Brass": {
+        "Farmers": 0,
+        "Workers": 25,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Steam Carriages": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 500,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Steam Motors": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 250,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Advanced Weapons": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 250,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Weapons": {
+        "Farmers": 0,
+        "Workers": 50,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Steel": {
+        "Farmers": 0,
+        "Workers": 100,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Steel Beams": {
+        "Farmers": 0,
+        "Workers": 200,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Champagne": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 150,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Sausages": {
+        "Farmers": 0,
+        "Workers": 50,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Schnapps": {
+        "Farmers": 50,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Canned Food": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 75,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Goulash": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 75,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Beer": {
+        "Farmers": 0,
+        "Workers": 75,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Bread": {
+        "Farmers": 0,
+        "Workers": 50,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Chassis": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 150,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Clay": {
+        "Farmers": 0,
+        "Workers": 50,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Sails": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 20,
+        "Obreros": 0
+    },
+    "Windows": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 100,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Light Bulbs": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 150,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Fur Coats": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 200,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Timber": {
+        "Farmers": 10,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Bricks": {
+        "Farmers": 0,
+        "Workers": 25,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Soap": {
+        "Farmers": 0,
+        "Workers": 50,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Reinforced Concrete": {
+        "Farmers": 0,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 125,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Quartz Sand": {
+        "Farmers": 0,
+        "Workers": 25,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Saltpeter": {
+        "Farmers": 0,
+        "Workers": 25,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Fish": {
+        "Farmers": 25,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Grapes": {
+        "Farmers": 10,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Red Peppers": {
+        "Farmers": 10,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Furs": {
+        "Farmers": 10,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Pigs": {
+        "Farmers": 30,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Wool": {
+        "Farmers": 10,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Potatoes": {
+        "Farmers": 20,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Hops": {
+        "Farmers": 20,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Beef": {
+        "Farmers": 20,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    },
+    "Grain": {
+        "Farmers": 20,
+        "Workers": 0,
+        "Artisans": 0,
+        "Engineers": 0,
+        "Investors": 0,
+        "Jornaleros": 0,
+        "Obreros": 0
+    }
+  }
