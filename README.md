@@ -36,3 +36,12 @@ until a fixpoint is reached, i.e. all needs are satisfied and all productions ha
   }
 }
 ~~~~
+
+# Installation and Usage
+
+requires NodeJS (https://nodejs.org/en/download/)
+
+run the following in the package's folder:
+
+'npm install'
+'npm start'
