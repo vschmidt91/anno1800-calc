@@ -43,5 +43,5 @@ requires NodeJS (https://nodejs.org/en/download/)
 
 run the following in the package's folder:
 
-'npm install'
-'npm start'
+`npm install`
+`npm start`
